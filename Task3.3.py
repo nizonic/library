@@ -17,9 +17,9 @@ def isFriendlyPair():
             sumdiv2 += x
     #You need to complete this function.
     #You need to return a boolean variable . If num1 and num2 are friendly pairs return True. 
-    # If they are not return False. 
-    # The numbers must be valid according to description before determining friendly parity situations. 
-    # Return "Invalid" if they are not valid.
+    #If they are not return False. 
+    #The numbers must be valid according to description before determining friendly parity situations. 
+    #Return "Invalid" if they are not valid.
     return sumdiv1/num1 == sumdiv2/num2
 
 #This line prints your method's return so that you can check your output.
